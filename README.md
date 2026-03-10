@@ -1,2 +1,2 @@
 # ai_leaning_store
-record
+record my ai learning
