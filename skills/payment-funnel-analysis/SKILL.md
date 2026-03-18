@@ -1,7 +1,7 @@
 ---
-name:payment-funnel-analysis
-description:帮助公司数据分析师基于 ThinkingData (TE) 系统，对用户付费转化路径进行端到端分析，精准定位各环节流失节点，输出可落地的优化建议。
---- 
+name: payment-funnel-analysis
+description: 帮助公司数据分析师基于 ThinkingData (TE) 系统，对用户付费转化路径进行端到端分析，精准定位各环节流失节点，输出可落地的优化建议。
+---
 
 # payment-funnel-analysis
 
