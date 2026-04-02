@@ -1,6 +1,6 @@
 --- 
-name: user-tag-system-designer
-description: |
+name: "user-tag-system-designer"
+description: >
   基于客户真实埋点数据，自动识别行业和细分品类特征，为不知道如何设计标签体系的用户，提供层级清晰、内容丰富的用户标签体系【设计指导与规划方案】。
   重点是根据行业品类差异，设计真正具备行业洞察的专属标签，明确每个标签的业务定义、使用场景、推荐标签值分层及计算逻辑。
 
