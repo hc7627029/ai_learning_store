@@ -239,33 +239,35 @@ metadata:
 
 #### 细分品类识别(在行业大类确认后进一步区分)
 
-**游戏细分**:
+```
+## 游戏细分:
 - MMO/RPG: server_id, guild, role, quest, world_boss 等
 - 卡牌/放置: card_id, deck, gacha, auto_battle 等
 - 休闲/消除: level_id, life, booster, daily_challenge 等
 - 策略/SLG: city_id, alliance, troop, resource_type 等
 - 竞技/FPS: match_id, rank, kill, team 等
 
-**电商细分**:
+## 电商细分:
 - 综合电商: 多品类、搜索驱动、平台型
 - 垂直电商(服饰/美妆/食品/家居): 单品类深度、搭配、成分、评价
 - 社交电商/直播电商: live_id, kol_id, flash_sale, group_buy
 - 跨境电商: country, currency, customs, international_shipping
 - B2B采购: company_id, bulk_order, quote, approval_flow
 
-**金融细分**:
+## 金融细分:
 - 消费贷/现金贷: apply_loan, credit_limit, repay, overdue
 - 理财/基金: invest, portfolio, yield, risk_preference
 - 保险: policy, premium, claim, renewal, coverage
 - 证券/股票: trade, position, watchlist, market_data
 - 数字钱包/支付: transfer, top_up, scan_pay, bill
 
-**教育细分**:
+## 教育细分:
 - K12: grade, subject, homework, exam, parent_view
 - 职业技能/考证: certificate, practice_test, study_plan, flashcard
 - 语言学习: vocabulary, pronunciation, speaking_practice, streak
 - 高等教育/MOOC: university, credit, peer_review, project
 - 素质教育(音乐/美术/体育): skill_level, practice_duration, feedback
+```
 
 ---
 
