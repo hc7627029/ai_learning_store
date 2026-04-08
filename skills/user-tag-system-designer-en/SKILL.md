@@ -20,8 +20,8 @@ description: |
 metadata:
   version: "1.0.0"
   dependencies:
-    - thinkingengine-mcp
-    - te-mcp
+    - mcp__te-mcp-analysis
+    
 ---
 
 # User Tag System Design Assistant
